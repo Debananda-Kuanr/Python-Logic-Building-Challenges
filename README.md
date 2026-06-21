@@ -12,7 +12,7 @@ The repository showcases my progress from writing simple beginner programs to de
 
 ## 📅 Learning Timeline
 
-### 17 June 2026
+### 18 June 2026
 - Python Fundamentals
 - Variables and Data Types
 - Type Casting
@@ -20,7 +20,7 @@ The repository showcases my progress from writing simple beginner programs to de
 - User Input
 - Numbers and Booleans
 
-### 18 June 2026
+### 19 June 2026
 - Decision Making
 - If, If-Else, Nested If
 - Match-Case Statement
@@ -29,10 +29,10 @@ The repository showcases my progress from writing simple beginner programs to de
 - Break, Continue, Pass
 - Nested Loops
 
-### 19 June 2026 (Program Practice)
+### 20 June 2026 (Program Practice)
 - Solved 31 beginner-level Python programs covering conditions, loops, number operations, and pattern-based problems.
 
-### 19–20 June 2026
+### 20–21 June 2026
 - Solved 24 logic-building challenges and mini-projects based on real-world scenarios.
 
 ---
@@ -182,7 +182,6 @@ Through these programs, I practiced and improved:
 53. Spy Number Checker
 54. Frequency of Every Digit
 55. Mini Quiz Application
-----
 
 ---
 
